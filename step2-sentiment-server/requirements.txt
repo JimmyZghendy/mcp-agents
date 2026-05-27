@@ -1,0 +1,2 @@
+gradio[mcp]>=4.44.0
+textblob>=0.18.0
