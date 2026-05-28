@@ -1,0 +1,15 @@
+{
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "provider": "nebius",
+  "servers": [
+    {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://YOUR_USERNAME-mcp-sentiment.hf.space/gradio_api/mcp/sse"
+      ]
+    }
+  ]
+}
