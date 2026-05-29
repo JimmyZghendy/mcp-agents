@@ -1,0 +1,1260 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#bbc-main"
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - button "Open menu" [ref=e9] [cursor=pointer]:
+          - img [ref=e10]
+        - link "British Broadcasting Corporation" [ref=e18] [cursor=pointer]:
+          - /url: /
+          - img "British Broadcasting Corporation" [ref=e19]
+        - generic [ref=e22]:
+          - link "Register" [ref=e24] [cursor=pointer]:
+            - /url: https://session.bbc.com/session?action=register&userOrigin=BBCS_BBC&ptrt=https%3A%2F%2Fwww.bbc.com%2F
+            - button "Register" [ref=e25]:
+              - generic [ref=e26]: Register
+          - link "Sign In" [ref=e28] [cursor=pointer]:
+            - /url: https://session.bbc.com/session?userOrigin=BBCS_BBC&ptrt=https%3A%2F%2Fwww.bbc.com%2F
+            - button "Sign In" [ref=e29]:
+              - generic [ref=e30]: Sign In
+    - navigation [ref=e31]:
+      - navigation [ref=e33]:
+        - list [ref=e34]:
+          - listitem [ref=e35]:
+            - link "Home" [ref=e37] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e38]:
+            - link "News" [ref=e40] [cursor=pointer]:
+              - /url: /news
+          - listitem [ref=e41]:
+            - link "Sport" [ref=e43] [cursor=pointer]:
+              - /url: /sport
+          - listitem [ref=e44]:
+            - link "Business" [ref=e46] [cursor=pointer]:
+              - /url: /business
+          - listitem [ref=e47]:
+            - link "Technology" [ref=e49] [cursor=pointer]:
+              - /url: /technology
+          - listitem [ref=e50]:
+            - link "Health" [ref=e52] [cursor=pointer]:
+              - /url: /health
+          - listitem [ref=e53]:
+            - link "Culture" [ref=e55] [cursor=pointer]:
+              - /url: /culture
+          - listitem [ref=e56]:
+            - link "Arts" [ref=e58] [cursor=pointer]:
+              - /url: /arts
+          - listitem [ref=e59]:
+            - link "Travel" [ref=e61] [cursor=pointer]:
+              - /url: /travel
+          - listitem [ref=e62]:
+            - link "Earth" [ref=e64] [cursor=pointer]:
+              - /url: /future-planet
+          - listitem [ref=e65]:
+            - link "Audio" [ref=e67] [cursor=pointer]:
+              - /url: /audio
+          - listitem [ref=e68]:
+            - link "Video" [ref=e70] [cursor=pointer]:
+              - /url: /video
+          - listitem [ref=e71]:
+            - link "Live" [ref=e73] [cursor=pointer]:
+              - /url: /live
+    - main [ref=e74]:
+      - article [ref=e75]:
+        - generic [ref=e78]:
+          - generic [ref=e82]:
+            - img "A man is carried from an ambulance as he arrives at Bunia General Referral Hospital following confirmation of an Ebola outbreak involving the Bundibugyo strain in Bunia, Ituri province, Democratic Republic of Congo." [ref=e86]
+            - generic [ref=e87]:
+              - link "WHO declares Ebola outbreak in DR Congo a global health emergency" [ref=e89] [cursor=pointer]:
+                - /url: /news/articles/c2l2p0wwzzdo
+                - heading "WHO declares Ebola outbreak in DR Congo a global health emergency" [level=2] [ref=e92]
+              - paragraph [ref=e93]: The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.
+              - generic [ref=e94]:
+                - generic [ref=e95]: 15 mins ago
+                - generic: Africa
+          - generic [ref=e98]:
+            - 'link "A damaged multi-storey residential building in Moscow''s region, following a Ukrainian drone attack. Photo: 17 May 2026 Large-scale Ukrainian drone attack kills three in Moscow region, says Russia In Ukraine, local officials report eight injured in overnight Russian drone strikes and shelling. 2 hrs ago Europe" [ref=e102] [cursor=pointer]':
+              - /url: /news/articles/c5ye480kxpmo
+              - generic [ref=e103]:
+                - 'img "A damaged multi-storey residential building in Moscow''s region, following a Ukrainian drone attack. Photo: 17 May 2026" [ref=e107]'
+                - generic [ref=e108]:
+                  - heading "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia" [level=2] [ref=e111]
+                  - paragraph [ref=e112]: In Ukraine, local officials report eight injured in overnight Russian drone strikes and shelling.
+                  - generic [ref=e113]:
+                    - generic [ref=e114]: 2 hrs ago
+                    - generic: Europe
+            - link "Dara holds her Eurovision trophy Bangaranga! Bulgaria wins Eurovision - and UK comes last Bulgarian singer Dara is a surprise winner beating Israel in second place, while the UK's Look Mum No Computer gets just one point. 8 hrs ago Europe" [ref=e119] [cursor=pointer]:
+              - /url: /news/articles/c8d87v9v660o
+              - generic [ref=e120]:
+                - img "Dara holds her Eurovision trophy" [ref=e124]
+                - generic [ref=e125]:
+                  - heading "Bangaranga! Bulgaria wins Eurovision - and UK comes last" [level=2] [ref=e128]
+                  - paragraph [ref=e129]: Bulgarian singer Dara is a surprise winner beating Israel in second place, while the UK's Look Mum No Computer gets just one point.
+                  - generic [ref=e130]:
+                    - generic [ref=e131]: 8 hrs ago
+                    - generic: Europe
+          - generic [ref=e134]:
+            - 'link "Lights, camera, Bangaranga: Highlights from Eurovision Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision. 8 hrs ago Europe" [ref=e138] [cursor=pointer]':
+              - /url: /news/videos/cj3pznr0zr4o
+              - generic [ref=e140]:
+                - generic [ref=e142]:
+                  - img [ref=e144]
+                  - 'heading "Lights, camera, Bangaranga: Highlights from Eurovision" [level=2] [ref=e146]'
+                - paragraph [ref=e147]: Bulgarian singer Dara stormed to victory in the contest, while Ukraine broke the record for the longest note ever sung at Eurovision.
+                - generic [ref=e148]:
+                  - generic [ref=e149]: 8 hrs ago
+                  - generic: Europe
+            - link "Labour leadership jostling puts Brexit back under political spotlight The UK's relationship with the EU is shaping up as a key issue for a possible Labour leadership contest and the coming by-election in the Makerfield. 7 hrs ago Politics" [ref=e154] [cursor=pointer]:
+              - /url: /news/articles/c5y7l265pe8o
+              - generic [ref=e156]:
+                - heading "Labour leadership jostling puts Brexit back under political spotlight" [level=2] [ref=e159]
+                - paragraph [ref=e160]: The UK's relationship with the EU is shaping up as a key issue for a possible Labour leadership contest and the coming by-election in the Makerfield.
+                - generic [ref=e161]:
+                  - generic [ref=e162]: 7 hrs ago
+                  - generic: Politics
+            - link "Is it harder than ever to be UK prime minister? Discontent with the political class is greater than ever - has the UK become ungovernable? 10 hrs ago BBC InDepth" [ref=e167] [cursor=pointer]:
+              - /url: /news/articles/cqjpe7q0j1xo
+              - generic [ref=e169]:
+                - heading "Is it harder than ever to be UK prime minister?" [level=2] [ref=e172]
+                - paragraph [ref=e173]: Discontent with the political class is greater than ever - has the UK become ungovernable?
+                - generic [ref=e174]:
+                  - generic [ref=e175]: 10 hrs ago
+                  - generic: BBC InDepth
+            - link "Hezbollah drone strike videos show evolving tactics against Israel BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group. 11 hrs ago Middle East" [ref=e180] [cursor=pointer]:
+              - /url: /news/articles/c1j2zwe9g5no
+              - generic [ref=e182]:
+                - heading "Hezbollah drone strike videos show evolving tactics against Israel" [level=2] [ref=e185]
+                - paragraph [ref=e186]: BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.
+                - generic [ref=e187]:
+                  - generic [ref=e188]: 11 hrs ago
+                  - generic: Middle East
+        - generic [ref=e192]:
+          - generic [ref=e193]:
+            - separator [ref=e195]
+            - heading "Weekend reads" [level=2] [ref=e198]
+          - generic [ref=e199]:
+            - 'link "A close-up of a person stuffing their face with a bread-like food covered in beige spread (Credit: Getty Images) How chewing more boosts your brain While it''s widely known that chewing more improves digestion, research suggests it can also boost our brains and even help fend off Alzheimer''s." [ref=e202] [cursor=pointer]':
+              - /url: /future/article/20260514-the-hidden-health-benefits-of-chewing
+              - generic [ref=e203]:
+                - 'img "A close-up of a person stuffing their face with a bread-like food covered in beige spread (Credit: Getty Images)" [ref=e207]'
+                - generic [ref=e208]:
+                  - heading "How chewing more boosts your brain" [level=2] [ref=e211]
+                  - paragraph [ref=e212]: While it's widely known that chewing more improves digestion, research suggests it can also boost our brains and even help fend off Alzheimer's.
+            - link "Tourists sunbathe on Palolem beach in South Goa, India. Foreign tourists are falling out of love with Goa - here's why European visitors who once thronged the beaches in India's so-called party capital are now giving it a miss." [ref=e215] [cursor=pointer]:
+              - /url: /news/articles/cy827p9lg03o
+              - generic [ref=e216]:
+                - img "Tourists sunbathe on Palolem beach in South Goa, India." [ref=e220]
+                - generic [ref=e221]:
+                  - heading "Foreign tourists are falling out of love with Goa - here's why" [level=2] [ref=e224]
+                  - paragraph [ref=e225]: European visitors who once thronged the beaches in India's so-called party capital are now giving it a miss.
+        - generic [ref=e226]:
+          - generic [ref=e230]:
+            - separator [ref=e232]
+            - link "Arts in Motion" [ref=e235] [cursor=pointer]:
+              - /url: https://www.bbc.com/arts/arts-in-motion
+              - heading "Arts in Motion" [level=2] [ref=e236]:
+                - text: Arts in Motion
+                - img [ref=e237]
+          - generic [ref=e243]:
+            - link "image unavailable What it really takes to make a film from scratch" [ref=e247] [cursor=pointer]:
+              - /url: https://www.bbc.com/arts/arts-in-motion?id=p0nl0df5
+              - generic [ref=e248]:
+                - img "image unavailable" [ref=e249]
+                - img "What it really takes to make a film from scratch" [ref=e250]
+            - link "What it really takes to make a film from scratch At the National Film and Television School, students learn to turn ideas into films through intense training and real productions. Learn more" [ref=e254] [cursor=pointer]:
+              - /url: https://www.bbc.com/arts/arts-in-motion?id=p0nl0df5
+              - generic [ref=e255]:
+                - heading "What it really takes to make a film from scratch" [level=2] [ref=e259]
+                - generic [ref=e260]: At the National Film and Television School, students learn to turn ideas into films through intense training and real productions.
+                - generic "Learn more" [ref=e262]: See more
+        - generic [ref=e264]:
+          - generic [ref=e265]:
+            - separator [ref=e267]
+            - generic [ref=e268]:
+              - link "Best Audio of the Week" [ref=e270] [cursor=pointer]:
+                - /url: https://www.bbc.com/audio
+                - heading "Best Audio of the Week" [level=2] [ref=e271]:
+                  - text: Best Audio of the Week
+                  - img [ref=e272]
+              - generic [ref=e275]:
+                - button "Previous Page" [disabled] [ref=e276]:
+                  - img [ref=e277]
+                - button "Next Page" [ref=e279] [cursor=pointer]:
+                  - img [ref=e280]
+          - generic [ref=e283]:
+            - generic [ref=e285]:
+              - link "The Global Story - Did Trump and Xi get what they wanted?" [ref=e287] [cursor=pointer]:
+                - /url: /audio/play/w3ct8m8q
+                - generic [ref=e288]:
+                  - generic [ref=e289]:
+                    - img "image unavailable" [ref=e290]
+                    - img "The Global Story, The Global Story, Did Trump and Xi get what they wanted?" [ref=e291]
+                  - img [ref=e294]
+                - heading "The Global Story" [level=2] [ref=e300]
+                - heading "Did Trump and Xi get what they wanted?" [level=3] [ref=e301]
+              - generic [ref=e302]:
+                - button "Follow" [ref=e305] [cursor=pointer]:
+                  - img [ref=e307]
+                  - generic [ref=e309]: Save
+                - paragraph [ref=e311]: 26 mins
+            - generic [ref=e313]:
+              - link "Global News Podcast - WHO declares an Ebola public health emergency in the DRC" [ref=e315] [cursor=pointer]:
+                - /url: /audio/play/p0nlpkjv
+                - generic [ref=e316]:
+                  - generic [ref=e317]:
+                    - img "image unavailable" [ref=e318]
+                    - img "Global News Podcast, WHO declares an Ebola public health emergency in the DRC" [ref=e319]
+                  - img [ref=e322]
+                - heading "Global News Podcast" [level=2] [ref=e328]
+                - heading "WHO declares an Ebola public health emergency in the DRC" [level=3] [ref=e329]
+              - generic [ref=e330]:
+                - button "Follow" [ref=e333] [cursor=pointer]:
+                  - img [ref=e335]
+                  - generic [ref=e337]: Save
+                - paragraph [ref=e339]: 26 mins
+            - generic [ref=e341]:
+              - link "The Interface - Is AI harvesting your knowledge on the cheap?" [ref=e343] [cursor=pointer]:
+                - /url: /audio/play/p0nds1sc
+                - generic [ref=e344]:
+                  - generic [ref=e345]:
+                    - img "image unavailable" [ref=e346]
+                    - img "The Interface, The Interface, Is AI harvesting your knowledge on the cheap?" [ref=e347]
+                  - img [ref=e350]
+                - heading "The Interface" [level=2] [ref=e356]
+                - heading "Is AI harvesting your knowledge on the cheap?" [level=3] [ref=e357]
+              - generic [ref=e358]:
+                - button "Follow" [ref=e361] [cursor=pointer]:
+                  - img [ref=e363]
+                  - generic [ref=e365]: Save
+                - paragraph [ref=e367]: 43 mins
+            - generic [ref=e369]:
+              - link "Intrigue - Episode 1" [ref=e371] [cursor=pointer]:
+                - /url: /audio/play/m002vbx2
+                - generic [ref=e372]:
+                  - generic [ref=e373]:
+                    - img "image unavailable" [ref=e374]
+                    - img "Intrigue, Intrigue, Episode 1" [ref=e375]
+                  - img [ref=e378]
+                - heading "Intrigue" [level=2] [ref=e384]
+                - heading "Episode 1" [level=3] [ref=e385]
+              - generic [ref=e386]:
+                - button "Follow" [ref=e389] [cursor=pointer]:
+                  - img [ref=e391]
+                  - generic [ref=e393]: Save
+                - paragraph [ref=e395]: 34 mins
+            - generic [ref=e397]:
+              - link "Witness History - The Sami protest song that made Eurovision history" [ref=e399] [cursor=pointer]:
+                - /url: /audio/play/w3ct98dl
+                - generic [ref=e400]:
+                  - generic [ref=e401]:
+                    - img "image unavailable" [ref=e402]
+                    - img "Witness History, Witness History, The Sami protest song that made Eurovision history" [ref=e403]
+                  - img [ref=e406]
+                - heading "Witness History" [level=2] [ref=e412]
+                - heading "The Sami protest song that made Eurovision history" [level=3] [ref=e413]
+              - generic [ref=e414]:
+                - button "Follow" [ref=e417] [cursor=pointer]:
+                  - img [ref=e419]
+                  - generic [ref=e421]: Save
+                - paragraph [ref=e423]: 11 mins
+            - generic [ref=e425]:
+              - 'link "The Interview - Mikhail Ulyanov: Rescuing Iran nuclear talks" [ref=e427] [cursor=pointer]':
+                - /url: /audio/play/w3ct8kl5
+                - generic [ref=e428]:
+                  - generic [ref=e429]:
+                    - img "image unavailable" [ref=e430]
+                    - 'img "The Interview, The Interview, Mikhail Ulyanov: Rescuing Iran nuclear talks" [ref=e431]'
+                  - img [ref=e434]
+                - heading "The Interview" [level=2] [ref=e440]
+                - 'heading "Mikhail Ulyanov: Rescuing Iran nuclear talks" [level=3] [ref=e441]'
+              - generic [ref=e442]:
+                - button "Follow" [ref=e445] [cursor=pointer]:
+                  - img [ref=e447]
+                  - generic [ref=e449]: Save
+                - paragraph [ref=e451]: 22 mins
+            - generic [ref=e453]:
+              - link "Witness History - When Sweden invented the reality game show" [ref=e455] [cursor=pointer]:
+                - /url: /audio/play/w3ct98bb
+                - generic [ref=e456]:
+                  - generic [ref=e457]:
+                    - img "image unavailable" [ref=e458]
+                    - img "Witness History, Witness History, When Sweden invented the reality game show" [ref=e459]
+                  - img [ref=e462]
+                - heading "Witness History" [level=2] [ref=e468]
+                - heading "When Sweden invented the reality game show" [level=3] [ref=e469]
+              - generic [ref=e470]:
+                - button "Follow" [ref=e473] [cursor=pointer]:
+                  - img [ref=e475]
+                  - generic [ref=e477]: Save
+                - paragraph [ref=e479]: 10 mins
+            - generic [ref=e481]:
+              - link "Business Daily - How US funding cuts are reshaping aid in Africa" [ref=e483] [cursor=pointer]:
+                - /url: /audio/play/w3ct98rw
+                - generic [ref=e484]:
+                  - generic [ref=e485]:
+                    - img "image unavailable" [ref=e486]
+                    - img "Business Daily, Business Daily, How US funding cuts are reshaping aid in Africa" [ref=e487]
+                  - img [ref=e490]
+                - heading "Business Daily" [level=2] [ref=e496]
+                - heading "How US funding cuts are reshaping aid in Africa" [level=3] [ref=e497]
+              - generic [ref=e498]:
+                - button "Follow" [ref=e501] [cursor=pointer]:
+                  - img [ref=e503]
+                  - generic [ref=e505]: Save
+                - paragraph [ref=e507]: 23 mins
+            - generic [ref=e509]:
+              - link "The Radio 3 Documentary - David Attenborough - World Music Collector" [ref=e511] [cursor=pointer]:
+                - /url: /audio/play/p067sqpm
+                - generic [ref=e512]:
+                  - generic [ref=e513]:
+                    - img "image unavailable" [ref=e514]
+                    - img "The Radio 3 Documentary, David Attenborough - World Music Collector" [ref=e515]
+                  - img [ref=e518]
+                - heading "The Radio 3 Documentary" [level=2] [ref=e524]
+                - heading "David Attenborough - World Music Collector" [level=3] [ref=e525]
+              - generic [ref=e526]:
+                - button "Follow" [ref=e529] [cursor=pointer]:
+                  - img [ref=e531]
+                  - generic [ref=e533]: Save
+                - paragraph [ref=e535]: 44 mins
+            - generic [ref=e537]:
+              - link "In Our Time - M.C. Escher" [ref=e539] [cursor=pointer]:
+                - /url: /audio/play/m002v19c
+                - generic [ref=e540]:
+                  - generic [ref=e541]:
+                    - img "image unavailable" [ref=e542]
+                    - img "In Our Time, In Our Time, M.C. Escher" [ref=e543]
+                  - img [ref=e546]
+                - heading "In Our Time" [level=2] [ref=e552]
+                - heading "M.C. Escher" [level=3] [ref=e553]
+              - generic [ref=e554]:
+                - button "Follow" [ref=e557] [cursor=pointer]:
+                  - img [ref=e559]
+                  - generic [ref=e561]: Save
+                - paragraph [ref=e563]: 55 mins
+        - generic [ref=e565]:
+          - generic [ref=e569]:
+            - separator [ref=e571]
+            - link "More news" [ref=e574] [cursor=pointer]:
+              - /url: https://www.bbc.com/news
+              - heading "More news" [level=2] [ref=e575]:
+                - text: More news
+                - img [ref=e576]
+          - generic [ref=e579]:
+            - generic [ref=e582]:
+              - link "image unavailable Emergency services responding to a train and bus collision in Bangkok" [ref=e586] [cursor=pointer]:
+                - /url: /news/articles/c98rez3x0nwo
+                - generic [ref=e587]:
+                  - img "image unavailable" [ref=e588]
+                  - img "Emergency services responding to a train and bus collision in Bangkok" [ref=e589]
+              - link "Freight train and bus crash kills at least eight in Bangkok Police and rescue officials said the collision sparked a fire that engulfed the bus. 19 hrs ago Asia" [ref=e593] [cursor=pointer]:
+                - /url: /news/articles/c98rez3x0nwo
+                - generic [ref=e594]:
+                  - heading "Freight train and bus crash kills at least eight in Bangkok" [level=2] [ref=e597]
+                  - paragraph [ref=e598]: Police and rescue officials said the collision sparked a fire that engulfed the bus.
+                  - generic [ref=e599]:
+                    - generic [ref=e600]: 19 hrs ago
+                    - generic: Asia
+            - generic [ref=e603]:
+              - link "image unavailable Taiwanese President Lai Ching-te stands to the right of the picture waving and smiling at his party HQ in Taipei. Behind him is a green backdrop with Chinese lettering. Taiwan insists it is independent after Trump warning Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island. 17 hrs ago World" [ref=e607] [cursor=pointer]:
+                - /url: /news/articles/cx2132w81jqo
+                - generic [ref=e608]:
+                  - generic [ref=e611]:
+                    - img "image unavailable" [ref=e612]
+                    - img "Taiwanese President Lai Ching-te stands to the right of the picture waving and smiling at his party HQ in Taipei. Behind him is a green backdrop with Chinese lettering." [ref=e613]
+                  - generic [ref=e614]:
+                    - heading "Taiwan insists it is independent after Trump warning" [level=2] [ref=e617]
+                    - paragraph [ref=e618]: Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.
+                    - generic [ref=e619]:
+                      - generic [ref=e620]: 17 hrs ago
+                      - generic: World
+              - link "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele Nazi war criminal Josef Mengele fled Europe after WWII, but for years there were rumours he spent time in Switzerland. 1 day ago Europe" [ref=e625] [cursor=pointer]:
+                - /url: /news/articles/cgjpyqjj8y4o
+                - generic [ref=e627]:
+                  - heading "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele" [level=2] [ref=e630]
+                  - paragraph [ref=e631]: Nazi war criminal Josef Mengele fled Europe after WWII, but for years there were rumours he spent time in Switzerland.
+                  - generic [ref=e632]:
+                    - generic [ref=e633]: 1 day ago
+                    - generic: Europe
+              - link "Canadian from hantavirus-hit cruise ship tests positive The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia. 13 hrs ago US & Canada" [ref=e638] [cursor=pointer]:
+                - /url: /news/articles/c2k2p057ezno
+                - generic [ref=e640]:
+                  - heading "Canadian from hantavirus-hit cruise ship tests positive" [level=2] [ref=e643]
+                  - paragraph [ref=e644]: The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.
+                  - generic [ref=e645]:
+                    - generic [ref=e646]: 13 hrs ago
+                    - generic: US & Canada
+            - link "image unavailable Julia Letlow is seen talking to constituents which smiling and appearing to talk. She is turned to the side and is seen from the shoulder up. She is wearing a red top. Trump-backed challenger defeats Republican senator who voted to convict president Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\". 6 hrs ago US & Canada" [ref=e651] [cursor=pointer]:
+              - /url: /news/articles/cx21d4pxq23o
+              - generic [ref=e652]:
+                - generic [ref=e655]:
+                  - img "image unavailable" [ref=e656]
+                  - img "Julia Letlow is seen talking to constituents which smiling and appearing to talk. She is turned to the side and is seen from the shoulder up. She is wearing a red top." [ref=e657]
+                - generic [ref=e658]:
+                  - heading "Trump-backed challenger defeats Republican senator who voted to convict president" [level=2] [ref=e661]
+                  - paragraph [ref=e662]: Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent "disloyal".
+                  - generic [ref=e663]:
+                    - generic [ref=e664]: 6 hrs ago
+                    - generic: US & Canada
+            - link "image unavailable Dozens of people are seen at the Unite the Kingdom march in central London. Many England and Union Jack flags can be seen in the foreground and background. Some of the men and women in the crowds can be seen wearing Union Jack flags around their shoulders Tens of thousands join rival marches in London Thirty-one arrests have been made across the Unite the Kingdom march and a pro-Palestinian protest. 14 hrs ago London" [ref=e669] [cursor=pointer]:
+              - /url: /news/articles/c3d2ryyz0jzo
+              - generic [ref=e670]:
+                - generic [ref=e673]:
+                  - img "image unavailable" [ref=e674]
+                  - img "Dozens of people are seen at the Unite the Kingdom march in central London. Many England and Union Jack flags can be seen in the foreground and background. Some of the men and women in the crowds can be seen wearing Union Jack flags around their shoulders" [ref=e675]
+                - generic [ref=e676]:
+                  - heading "Tens of thousands join rival marches in London" [level=2] [ref=e679]
+                  - paragraph [ref=e680]: Thirty-one arrests have been made across the Unite the Kingdom march and a pro-Palestinian protest.
+                  - generic [ref=e681]:
+                    - generic [ref=e682]: 14 hrs ago
+                    - generic: London
+            - link "image unavailable Eleven women, all dressed in neutral, elaborate outfits featuring knits and lace. They all have elaborate hair and makeup and are lined up staring at camera The girl group who've sold out venues and toured the world - without releasing a record The all-female supergroup has sold out venues across the UK and Ireland, toured stadiums with Ed Sheeran, and built a global following - all without releasing a debut record. 10 hrs ago Europe" [ref=e687] [cursor=pointer]:
+              - /url: /news/articles/cz721w33ve1o
+              - generic [ref=e688]:
+                - generic [ref=e691]:
+                  - img "image unavailable" [ref=e692]
+                  - img "Eleven women, all dressed in neutral, elaborate outfits featuring knits and lace. They all have elaborate hair and makeup and are lined up staring at camera" [ref=e693]
+                - generic [ref=e694]:
+                  - heading "The girl group who've sold out venues and toured the world - without releasing a record" [level=2] [ref=e697]
+                  - paragraph [ref=e698]: The all-female supergroup has sold out venues across the UK and Ireland, toured stadiums with Ed Sheeran, and built a global following - all without releasing a debut record.
+                  - generic [ref=e699]:
+                    - generic [ref=e700]: 10 hrs ago
+                    - generic: Europe
+        - generic [ref=e703]:
+          - generic [ref=e704]:
+            - separator [ref=e706]
+            - generic [ref=e707]:
+              - link "Editor's picks" [ref=e709] [cursor=pointer]:
+                - /url: https://www.bbc.com/video
+                - heading "Editor's picks" [level=2] [ref=e710]:
+                  - text: Editor's picks
+                  - img [ref=e711]
+              - generic [ref=e714]:
+                - button "Previous Page" [disabled] [ref=e715]:
+                  - img [ref=e716]
+                - button "Next Page" [ref=e718] [cursor=pointer]:
+                  - img [ref=e719]
+          - generic [ref=e722]:
+            - link "image unavailable Thumbnail Hotel Del Option2 The woman who checked in and never checked out A mysterious 1892 death at a California hotel sparked ghost stories that still intrigue visitors today. Culture & Experiences" [ref=e726] [cursor=pointer]:
+              - /url: /reel/video/p0mbhsd8/watch
+              - generic [ref=e727]:
+                - generic [ref=e728]:
+                  - generic [ref=e730]:
+                    - img "image unavailable" [ref=e731]
+                    - img "Thumbnail Hotel Del Option2" [ref=e732]
+                  - img [ref=e735]
+                - generic [ref=e737]:
+                  - heading "The woman who checked in and never checked out" [level=2] [ref=e740]
+                  - paragraph [ref=e741]: A mysterious 1892 death at a California hotel sparked ghost stories that still intrigue visitors today.
+                  - generic [ref=e742]:
+                    - generic: Culture & Experiences
+            - link "image unavailable Silk road copy Tracing Marco Polo's footsteps along the Silk Road Some 700 years after his death, Marco Polo's travellogue remains full of wonder. History" [ref=e746] [cursor=pointer]:
+              - /url: /reel/video/p0h3c672/watch
+              - generic [ref=e747]:
+                - generic [ref=e748]:
+                  - generic [ref=e750]:
+                    - img "image unavailable" [ref=e751]
+                    - img "Silk road copy" [ref=e752]
+                  - img [ref=e755]
+                - generic [ref=e757]:
+                  - heading "Tracing Marco Polo's footsteps along the Silk Road" [level=2] [ref=e760]
+                  - paragraph [ref=e761]: Some 700 years after his death, Marco Polo's travellogue remains full of wonder.
+                  - generic [ref=e762]:
+                    - generic: History
+            - link "image unavailable The song that ended a dictatorship The song that ended Europe's longest-running fascist regime Five decades ago, a Eurovision song gave the signal for a military coup. History" [ref=e766] [cursor=pointer]:
+              - /url: /reel/video/p0hsxk4n/watch
+              - generic [ref=e767]:
+                - generic [ref=e768]:
+                  - generic [ref=e770]:
+                    - img "image unavailable" [ref=e771]
+                    - img "The song that ended a dictatorship" [ref=e772]
+                  - img [ref=e775]
+                - generic [ref=e777]:
+                  - heading "The song that ended Europe's longest-running fascist regime" [level=2] [ref=e780]
+                  - paragraph [ref=e781]: Five decades ago, a Eurovision song gave the signal for a military coup.
+                  - generic [ref=e782]:
+                    - generic: History
+            - link "image unavailable How sex with Neanderthals changed us forever How sex with Neanderthals changed us forever According to biologists, modern humans and Neanderthals shouldn't have been able to breed. But they did. Science" [ref=e786] [cursor=pointer]:
+              - /url: /reel/video/p0kytlx7/watch
+              - generic [ref=e787]:
+                - generic [ref=e788]:
+                  - generic [ref=e790]:
+                    - img "image unavailable" [ref=e791]
+                    - img "How sex with Neanderthals changed us forever" [ref=e792]
+                  - img [ref=e795]
+                - generic [ref=e797]:
+                  - heading "How sex with Neanderthals changed us forever" [level=2] [ref=e800]
+                  - paragraph [ref=e801]: According to biologists, modern humans and Neanderthals shouldn't have been able to breed. But they did.
+                  - generic [ref=e802]:
+                    - generic: Science
+            - link "image unavailable The first view inside Tutankhamun's tomb A view inside King Tutankhamun's tomb One month after the famous discovery, photographer Harry Burton recreated the first view of Tutankhamun's tomb. History" [ref=e806] [cursor=pointer]:
+              - /url: /reel/video/p0j8gcmv/watch
+              - generic [ref=e807]:
+                - generic [ref=e808]:
+                  - generic [ref=e810]:
+                    - img "image unavailable" [ref=e811]
+                    - img "The first view inside Tutankhamun's tomb" [ref=e812]
+                  - img [ref=e815]
+                - generic [ref=e817]:
+                  - heading "A view inside King Tutankhamun's tomb" [level=2] [ref=e820]
+                  - paragraph [ref=e821]: One month after the famous discovery, photographer Harry Burton recreated the first view of Tutankhamun's tomb.
+                  - generic [ref=e822]:
+                    - generic: History
+            - link "image unavailable The mysterious origins of the temple older than Stonehenge The mysterious origins of the temple older than Stonehenge Göbekli Tepe, an 11,500‑year‑old temple, offers clues to humanity's first steps towards settling down. Humans" [ref=e826] [cursor=pointer]:
+              - /url: /reel/video/p0nbzfzk/watch
+              - generic [ref=e827]:
+                - generic [ref=e828]:
+                  - generic [ref=e830]:
+                    - img "image unavailable" [ref=e831]
+                    - img "The mysterious origins of the temple older than Stonehenge" [ref=e832]
+                  - img [ref=e835]
+                - generic [ref=e837]:
+                  - heading "The mysterious origins of the temple older than Stonehenge" [level=2] [ref=e840]
+                  - paragraph [ref=e841]: Göbekli Tepe, an 11,500‑year‑old temple, offers clues to humanity's first steps towards settling down.
+                  - generic [ref=e842]:
+                    - generic: Humans
+            - link "image unavailable The boy who shot the Vietnam War Story of the 12-year-old boy who shot the Vietnam War While other children fled from the Vietnam War, Jimmy Lo Hung ran towards the chaos to document the bloody conflict in his homeland. Time Frame" [ref=e846] [cursor=pointer]:
+              - /url: /reel/video/p0lrkv9t/watch
+              - generic [ref=e847]:
+                - generic [ref=e848]:
+                  - generic [ref=e850]:
+                    - img "image unavailable" [ref=e851]
+                    - img "The boy who shot the Vietnam War" [ref=e852]
+                  - img [ref=e855]
+                - generic [ref=e857]:
+                  - heading "Story of the 12-year-old boy who shot the Vietnam War" [level=2] [ref=e860]
+                  - paragraph [ref=e861]: While other children fled from the Vietnam War, Jimmy Lo Hung ran towards the chaos to document the bloody conflict in his homeland.
+                  - generic [ref=e862]:
+                    - generic: Time Frame
+            - link "image unavailable The birthplace of the alphabet in ancient Egypt The birthplace of the alphabet in ancient Egypt In 1905, archaeologists in Egypt found mysterious inscriptions carved into the walls of a 4,000-year-old mine. Humans" [ref=e866] [cursor=pointer]:
+              - /url: /reel/video/p0m5zt3j/watch
+              - generic [ref=e867]:
+                - generic [ref=e868]:
+                  - generic [ref=e870]:
+                    - img "image unavailable" [ref=e871]
+                    - img "The birthplace of the alphabet in ancient Egypt" [ref=e872]
+                  - img [ref=e875]
+                - generic [ref=e877]:
+                  - heading "The birthplace of the alphabet in ancient Egypt" [level=2] [ref=e880]
+                  - paragraph [ref=e881]: In 1905, archaeologists in Egypt found mysterious inscriptions carved into the walls of a 4,000-year-old mine.
+                  - generic [ref=e882]:
+                    - generic: Humans
+        - generic [ref=e884]:
+          - generic [ref=e888]:
+            - separator [ref=e890]
+            - link "Science" [ref=e893] [cursor=pointer]:
+              - /url: https://www.bbc.com/innovation/science
+              - heading "Science" [level=2] [ref=e894]:
+                - text: Science
+                - img [ref=e895]
+          - generic [ref=e901]:
+            - 'link "image unavailable A researcher at the indoor research facility at the University of Tennessee inspects grass under a row of LED lights elevated just a few inches off the ground (Credit: Steven Bridges/University of Tennessee)" [ref=e905] [cursor=pointer]':
+              - /url: /future/article/20260515-world-cup-2026-these-scientists-have-spent-eight-years-growing-grass-for-the-pitches
+              - generic [ref=e906]:
+                - img "image unavailable" [ref=e907]
+                - 'img "A researcher at the indoor research facility at the University of Tennessee inspects grass under a row of LED lights elevated just a few inches off the ground (Credit: Steven Bridges/University of Tennessee)" [ref=e908]'
+            - link "Pitch perfect? The science of World Cup grass The grass on which the World Cup's 104 matches will be played has a vital but often overlooked role. Two scientists have spent decades getting it right. Learn more" [ref=e912] [cursor=pointer]:
+              - /url: /future/article/20260515-world-cup-2026-these-scientists-have-spent-eight-years-growing-grass-for-the-pitches
+              - generic [ref=e913]:
+                - heading "Pitch perfect? The science of World Cup grass" [level=2] [ref=e917]
+                - generic [ref=e918]: The grass on which the World Cup's 104 matches will be played has a vital but often overlooked role. Two scientists have spent decades getting it right.
+                - generic "Learn more" [ref=e920]: See more
+        - generic [ref=e921]:
+          - generic [ref=e925]:
+            - separator [ref=e927]
+            - link "Travel" [ref=e930] [cursor=pointer]:
+              - /url: https://www.bbc.com/travel
+              - heading "Travel" [level=2] [ref=e931]:
+                - text: Travel
+                - img [ref=e932]
+          - generic [ref=e938]:
+            - 'link "image unavailable Aerial view of small harbour village in England with fishing boats moored between breakwaters (Credit: Getty Images)" [ref=e942] [cursor=pointer]':
+              - /url: /travel/article/20260514-where-to-go-in-england-this-summer-if-you-want-to-skip-london
+              - generic [ref=e943]:
+                - img "image unavailable" [ref=e944]
+                - 'img "Aerial view of small harbour village in England with fishing boats moored between breakwaters (Credit: Getty Images)" [ref=e945]'
+            - link "Where to go in England this summer if you want to skip London From remote islands and wild moors to slow canals and starry skies, these six destinations encapsulate all that’s best about England in summer. Learn more" [ref=e949] [cursor=pointer]:
+              - /url: /travel/article/20260514-where-to-go-in-england-this-summer-if-you-want-to-skip-london
+              - generic [ref=e950]:
+                - heading "Where to go in England this summer if you want to skip London" [level=2] [ref=e954]
+                - generic [ref=e955]: From remote islands and wild moors to slow canals and starry skies, these six destinations encapsulate all that’s best about England in summer.
+                - generic "Learn more" [ref=e957]: See more
+        - generic [ref=e961]:
+          - generic [ref=e962]:
+            - generic [ref=e963]:
+              - generic [ref=e964]:
+                - separator [ref=e966]
+                - link "US & Canada News" [ref=e969] [cursor=pointer]:
+                  - /url: https://www.bbc.com/news/us-canada
+                  - heading "US & Canada News" [level=2] [ref=e970]:
+                    - text: US & Canada News
+                    - img [ref=e971]
+              - generic [ref=e973]:
+                - link "image unavailable Lebanese army soldiers man a checkpoint in Beirut, Lebanon, on 14 May 2026 Lebanon says six killed in Israeli strike as US announces ceasefire extension President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then." [ref=e976] [cursor=pointer]:
+                  - /url: /news/articles/cqlpzzl0d67o
+                  - generic [ref=e977]:
+                    - generic [ref=e980]:
+                      - img "image unavailable" [ref=e981]
+                      - img "Lebanese army soldiers man a checkpoint in Beirut, Lebanon, on 14 May 2026" [ref=e982]
+                    - generic [ref=e983]:
+                      - heading "Lebanon says six killed in Israeli strike as US announces ceasefire extension" [level=2] [ref=e986]
+                      - paragraph [ref=e987]: President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.
+                - link "Democratic governor under fire over clemency for 2020 election denier" [ref=e990] [cursor=pointer]:
+                  - /url: /news/articles/c0l2kln7dzgo
+                  - heading "Democratic governor under fire over clemency for 2020 election denier" [level=2] [ref=e994]
+                - link "What happens next in the Alex Murdaugh case?" [ref=e997] [cursor=pointer]:
+                  - /url: /news/articles/cj9pwxe2ed1o
+                  - heading "What happens next in the Alex Murdaugh case?" [level=2] [ref=e1001]
+                - link "Judge declares another mistrial in Harvey Weinstein New York rape case" [ref=e1004] [cursor=pointer]:
+                  - /url: /news/articles/c152lexw1vxo
+                  - heading "Judge declares another mistrial in Harvey Weinstein New York rape case" [level=2] [ref=e1008]
+            - generic [ref=e1009]:
+              - generic [ref=e1010]:
+                - separator [ref=e1012]
+                - link "More World News" [ref=e1015] [cursor=pointer]:
+                  - /url: https://www.bbc.com/news/world
+                  - heading "More World News" [level=2] [ref=e1016]:
+                    - text: More World News
+                    - img [ref=e1017]
+              - generic [ref=e1019]:
+                - link "image unavailable A blue Garda road closed sign Pedestrian dies after being hit by car Gardaí (Irish police) said they responded after a pedestrian was struck by a car on the N11 Bray Road, Loughlinstown at about 23:50 local time." [ref=e1022] [cursor=pointer]:
+                  - /url: /news/articles/c5yepl1d3plo
+                  - generic [ref=e1023]:
+                    - generic [ref=e1026]:
+                      - img "image unavailable" [ref=e1027]
+                      - img "A blue Garda road closed sign" [ref=e1028]
+                    - generic [ref=e1029]:
+                      - heading "Pedestrian dies after being hit by car" [level=2] [ref=e1032]
+                      - paragraph [ref=e1033]: Gardaí (Irish police) said they responded after a pedestrian was struck by a car on the N11 Bray Road, Loughlinstown at about 23:50 local time.
+                - link "Man arrested after north Dublin house death released" [ref=e1036] [cursor=pointer]:
+                  - /url: /news/articles/ce8p6zrz3rjo
+                  - heading "Man arrested after north Dublin house death released" [level=2] [ref=e1040]
+                - link "Man drives car into pedestrians in Italy, injuring eight" [ref=e1043] [cursor=pointer]:
+                  - /url: /news/articles/cyv28pd4n22o
+                  - heading "Man drives car into pedestrians in Italy, injuring eight" [level=2] [ref=e1047]
+                - 'link "''Look Mum, one point'': Why does the UK keep getting Eurovision wrong?" [ref=e1050] [cursor=pointer]':
+                  - /url: /news/articles/cy72e81dp28o
+                  - 'heading "''Look Mum, one point'': Why does the UK keep getting Eurovision wrong?" [level=2] [ref=e1054]'
+          - generic [ref=e1055]:
+            - generic [ref=e1056]:
+              - generic [ref=e1057]:
+                - separator [ref=e1059]
+                - link "Business" [ref=e1062] [cursor=pointer]:
+                  - /url: https://www.bbc.com/business
+                  - heading "Business" [level=2] [ref=e1063]:
+                    - text: Business
+                    - img [ref=e1064]
+              - generic [ref=e1066]:
+                - link "image unavailable Robert is facing the camera and holding his drivers licence in his hand which he recently passed. He is standing on a residential street in Croydon with parked cars behind him. Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to The government is cracking down on third parties who use bots to buy tests and resell them at inflated prices." [ref=e1069] [cursor=pointer]:
+                  - /url: /news/articles/cx219pn5g70o
+                  - generic [ref=e1070]:
+                    - generic [ref=e1073]:
+                      - img "image unavailable" [ref=e1074]
+                      - img "Robert is facing the camera and holding his drivers licence in his hand which he recently passed. He is standing on a residential street in Croydon with parked cars behind him." [ref=e1075]
+                    - generic [ref=e1076]:
+                      - heading "Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to" [level=2] [ref=e1079]
+                      - paragraph [ref=e1080]: The government is cracking down on third parties who use bots to buy tests and resell them at inflated prices.
+                - 'link "''They took £20,000 I didn''t owe'': Parents hit by child maintenance errors" [ref=e1083] [cursor=pointer]':
+                  - /url: /news/articles/cq8wjn98y85o
+                  - 'heading "''They took £20,000 I didn''t owe'': Parents hit by child maintenance errors" [level=2] [ref=e1087]'
+                - link "Trump and Xi conclude 'very successful' talks but few deals confirmed" [ref=e1090] [cursor=pointer]:
+                  - /url: /news/articles/clypj01189lo
+                  - heading "Trump and Xi conclude 'very successful' talks but few deals confirmed" [level=2] [ref=e1094]
+                - link "UK borrowing costs rise and pound falls as leadership drama continues" [ref=e1097] [cursor=pointer]:
+                  - /url: /news/articles/czr2pl5lj84o
+                  - heading "UK borrowing costs rise and pound falls as leadership drama continues" [level=2] [ref=e1101]
+            - generic [ref=e1102]:
+              - generic [ref=e1103]:
+                - separator [ref=e1105]
+                - link "Technology" [ref=e1108] [cursor=pointer]:
+                  - /url: https://www.bbc.com/technology
+                  - heading "Technology" [level=2] [ref=e1109]:
+                    - text: Technology
+                    - img [ref=e1110]
+              - generic [ref=e1112]:
+                - link "image unavailable Inside the tech powering the future of driving The boldest new cars unveiled at Beijing Auto Show 2026 At the world's biggest auto show, China reveals what the future of driving would look like." [ref=e1115] [cursor=pointer]:
+                  - /url: /reel/video/p0nhs2vy/watch
+                  - generic [ref=e1116]:
+                    - generic [ref=e1118]:
+                      - generic [ref=e1119]:
+                        - img "image unavailable" [ref=e1120]
+                        - img "Inside the tech powering the future of driving" [ref=e1121]
+                      - img [ref=e1124]
+                    - generic [ref=e1126]:
+                      - heading "The boldest new cars unveiled at Beijing Auto Show 2026" [level=2] [ref=e1129]
+                      - paragraph [ref=e1130]: At the world's biggest auto show, China reveals what the future of driving would look like.
+                - link "How Eurovision pioneered transnational broadcasting" [ref=e1133] [cursor=pointer]:
+                  - /url: /news/articles/cg7pj0ln9x5o
+                  - heading "How Eurovision pioneered transnational broadcasting" [level=2] [ref=e1137]
+                - link "Inside the secret labs creating the world's most prized orchids" [ref=e1140] [cursor=pointer]:
+                  - /url: /news/articles/cly039rr2mgo
+                  - heading "Inside the secret labs creating the world's most prized orchids" [level=2] [ref=e1144]
+                - link "Thousands of Waymos recalled after robotaxi swept into a creek" [ref=e1147] [cursor=pointer]:
+                  - /url: /news/articles/cwy2011dl4xo
+                  - heading "Thousands of Waymos recalled after robotaxi swept into a creek" [level=2] [ref=e1151]
+        - generic [ref=e1153]:
+          - generic [ref=e1154]:
+            - separator [ref=e1156]
+            - generic [ref=e1157]:
+              - link "Latest Sport audio" [ref=e1159] [cursor=pointer]:
+                - /url: https://www.bbc.com/audio/category/sport
+                - heading "Latest Sport audio" [level=2] [ref=e1160]:
+                  - text: Latest Sport audio
+                  - img [ref=e1161]
+              - generic [ref=e1164]:
+                - button "Previous Page" [disabled] [ref=e1165]:
+                  - img [ref=e1166]
+                - button "Next Page" [ref=e1168] [cursor=pointer]:
+                  - img [ref=e1169]
+          - generic [ref=e1172]:
+            - generic [ref=e1174]:
+              - 'link "Test Match Special - Strategic Timeout: Chris Green talks IPL, Brendon McCullum & Shubman Gill" [ref=e1176] [cursor=pointer]':
+                - /url: /audio/play/p0nln1g1
+                - generic [ref=e1177]:
+                  - generic [ref=e1178]:
+                    - img "image unavailable" [ref=e1179]
+                    - 'img "Test Match Special, Strategic Timeout: Chris Green talks IPL, Brendon McCullum & Shubman Gill" [ref=e1180]'
+                  - img [ref=e1183]
+                - heading "Test Match Special" [level=2] [ref=e1189]
+                - 'heading "Strategic Timeout: Chris Green talks IPL, Brendon McCullum & Shubman Gill" [level=3] [ref=e1190]'
+              - generic [ref=e1191]:
+                - button "Follow" [ref=e1194] [cursor=pointer]:
+                  - img [ref=e1196]
+                  - generic [ref=e1198]: Save
+                - paragraph [ref=e1200]: 42 mins
+            - generic [ref=e1202]:
+              - link "606 - Sky High Blues & Broken Hearts" [ref=e1204] [cursor=pointer]:
+                - /url: /audio/play/m002whz5
+                - generic [ref=e1205]:
+                  - generic [ref=e1206]:
+                    - img "image unavailable" [ref=e1207]
+                    - img "606, 606, Sky High Blues & Broken Hearts" [ref=e1208]
+                  - img [ref=e1211]
+                - heading "606" [level=2] [ref=e1217]
+                - heading "Sky High Blues & Broken Hearts" [level=3] [ref=e1218]
+              - generic [ref=e1219]:
+                - button "Follow" [ref=e1222] [cursor=pointer]:
+                  - img [ref=e1224]
+                  - generic [ref=e1226]: Save
+                - paragraph [ref=e1228]: 1 hr 34 mins
+            - generic [ref=e1230]:
+              - 'link "Football Daily - The Debrief: Celtic win the Premiership & Semenyo inspires City" [ref=e1232] [cursor=pointer]':
+                - /url: /audio/play/p0nl73pm
+                - generic [ref=e1233]:
+                  - generic [ref=e1234]:
+                    - img "image unavailable" [ref=e1235]
+                    - 'img "Football Daily, The Debrief: Celtic win the Premiership & Semenyo inspires City" [ref=e1236]'
+                  - img [ref=e1239]
+                - heading "Football Daily" [level=2] [ref=e1245]
+                - 'heading "The Debrief: Celtic win the Premiership & Semenyo inspires City" [level=3] [ref=e1246]'
+              - generic [ref=e1247]:
+                - button "Follow" [ref=e1250] [cursor=pointer]:
+                  - img [ref=e1252]
+                  - generic [ref=e1254]: Save
+                - paragraph [ref=e1256]: 37 mins
+            - generic [ref=e1258]:
+              - link "Not by the Playbook - \"Cold hands, warm heart\"" [ref=e1260] [cursor=pointer]:
+                - /url: /audio/play/w3ct996f
+                - generic [ref=e1261]:
+                  - generic [ref=e1262]:
+                    - img "image unavailable" [ref=e1263]
+                    - img "Not by the Playbook, Sportshour, \"Cold hands, warm heart\"" [ref=e1264]
+                  - img [ref=e1267]
+                - heading "Not by the Playbook" [level=2] [ref=e1273]
+                - heading "\"Cold hands, warm heart\"" [level=3] [ref=e1274]
+              - generic [ref=e1275]:
+                - button "Follow" [ref=e1278] [cursor=pointer]:
+                  - img [ref=e1280]
+                  - generic [ref=e1282]: Save
+                - paragraph [ref=e1284]: 52 mins
+            - generic [ref=e1286]:
+              - link "The Wayne Rooney Show - Jordan Pickford on World Cup Dreams & Everton’s Rise" [ref=e1288] [cursor=pointer]:
+                - /url: /audio/play/p0nh9bss
+                - generic [ref=e1289]:
+                  - generic [ref=e1290]:
+                    - img "image unavailable" [ref=e1291]
+                    - img "The Wayne Rooney Show, The Wayne Rooney Show, Jordan Pickford on World Cup Dreams & Everton’s Rise" [ref=e1292]
+                  - img [ref=e1295]
+                - heading "The Wayne Rooney Show" [level=2] [ref=e1301]
+                - heading "Jordan Pickford on World Cup Dreams & Everton’s Rise" [level=3] [ref=e1302]
+              - generic [ref=e1303]:
+                - button "Follow" [ref=e1306] [cursor=pointer]:
+                  - img [ref=e1308]
+                  - generic [ref=e1310]: Save
+                - paragraph [ref=e1312]: 31 mins
+            - generic [ref=e1314]:
+              - 'link "Football Daily - The Commentators’ View: Spygate, Munchgate & VAR" [ref=e1316] [cursor=pointer]':
+                - /url: /audio/play/m002wmg7
+                - generic [ref=e1317]:
+                  - generic [ref=e1318]:
+                    - img "image unavailable" [ref=e1319]
+                    - 'img "Football Daily, The Commentators’ View: Spygate, Munchgate & VAR" [ref=e1320]'
+                  - img [ref=e1323]
+                - heading "Football Daily" [level=2] [ref=e1329]
+                - 'heading "The Commentators’ View: Spygate, Munchgate & VAR" [level=3] [ref=e1330]'
+              - generic [ref=e1331]:
+                - button "Follow" [ref=e1334] [cursor=pointer]:
+                  - img [ref=e1336]
+                  - generic [ref=e1338]: Save
+                - paragraph [ref=e1340]: 54 mins
+            - generic [ref=e1342]:
+              - 'link "More than the Score - Madina Okot: From Kenya to the WNBA" [ref=e1344] [cursor=pointer]':
+                - /url: /audio/play/p0nlfxkq
+                - generic [ref=e1345]:
+                  - generic [ref=e1346]:
+                    - img "image unavailable" [ref=e1347]
+                    - 'img "More than the Score, More Than The Score, Madina Okot: From Kenya to the WNBA" [ref=e1348]'
+                  - img [ref=e1351]
+                - heading "More than the Score" [level=2] [ref=e1357]
+                - 'heading "Madina Okot: From Kenya to the WNBA" [level=3] [ref=e1358]'
+              - generic [ref=e1359]:
+                - button "Follow" [ref=e1362] [cursor=pointer]:
+                  - img [ref=e1364]
+                  - generic [ref=e1366]: Save
+                - paragraph [ref=e1368]: 18 mins
+            - generic [ref=e1370]:
+              - 'link "Football Daily - Euro Leagues: Perez’s ‘disaster-class’ & Mourinho’s Real return" [ref=e1372] [cursor=pointer]':
+                - /url: /audio/play/p0nlbvsn
+                - generic [ref=e1373]:
+                  - generic [ref=e1374]:
+                    - img "image unavailable" [ref=e1375]
+                    - 'img "Football Daily, Euro Leagues: Perez’s ‘disaster-class’ & Mourinho’s Real return" [ref=e1376]'
+                  - img [ref=e1379]
+                - heading "Football Daily" [level=2] [ref=e1385]
+                - 'heading "Euro Leagues: Perez’s ‘disaster-class’ & Mourinho’s Real return" [level=3] [ref=e1386]'
+              - generic [ref=e1387]:
+                - button "Follow" [ref=e1390] [cursor=pointer]:
+                  - img [ref=e1392]
+                  - generic [ref=e1394]: Save
+                - paragraph [ref=e1396]: 50 mins
+        - generic [ref=e1400]:
+          - generic [ref=e1401]:
+            - generic [ref=e1402]:
+              - generic [ref=e1403]:
+                - separator [ref=e1405]
+                - link "Sport" [ref=e1408] [cursor=pointer]:
+                  - /url: https://www.bbc.com/sport
+                  - heading "Sport" [level=2] [ref=e1409]:
+                    - text: Sport
+                    - img [ref=e1410]
+              - generic [ref=e1412]:
+                - link "image unavailable A split image of Alexandros Kyzirids and Sebastian Tounekti celebrating What does Premiership climax mean for European places? What does Saturday's dramatic and chaotic climax to the Scottish Premiership top-six mean for European football next season?" [ref=e1415] [cursor=pointer]:
+                  - /url: /sport/football/articles/c3w25wzjxxyo
+                  - generic [ref=e1416]:
+                    - generic [ref=e1419]:
+                      - img "image unavailable" [ref=e1420]
+                      - img "A split image of Alexandros Kyzirids and Sebastian Tounekti celebrating" [ref=e1421]
+                    - generic [ref=e1422]:
+                      - heading "What does Premiership climax mean for European places?" [level=2] [ref=e1425]
+                      - paragraph [ref=e1426]: What does Saturday's dramatic and chaotic climax to the Scottish Premiership top-six mean for European football next season?
+                - link "'We share same ambition' - Alonso named Chelsea's third boss in year" [ref=e1429] [cursor=pointer]:
+                  - /url: /sport/football/articles/ckgpklg078go
+                  - heading "'We share same ambition' - Alonso named Chelsea's third boss in year" [level=2] [ref=e1433]
+                - link "The Alonso dream is over - but Salah's outburst keeps heat on Slot" [ref=e1436] [cursor=pointer]:
+                  - /url: /sport/football/articles/cdepgn509k2o
+                  - heading "The Alonso dream is over - but Salah's outburst keeps heat on Slot" [level=2] [ref=e1440]
+                - link "No trophy in turbulent season but Alonso arrival offers Chelsea hope" [ref=e1443] [cursor=pointer]:
+                  - /url: /sport/football/articles/clyp17plzx9o
+                  - heading "No trophy in turbulent season but Alonso arrival offers Chelsea hope" [level=2] [ref=e1447]
+            - generic [ref=e1448]:
+              - generic [ref=e1449]:
+                - separator [ref=e1451]
+                - link "Health" [ref=e1454] [cursor=pointer]:
+                  - /url: https://www.bbc.com/health
+                  - heading "Health" [level=2] [ref=e1455]:
+                    - text: Health
+                    - img [ref=e1456]
+              - generic [ref=e1458]:
+                - 'link "image unavailable A close-up of US Army veteran''s arms folded across their chest (Credit: Getty Images) The banned hallucinogenic drug raising hopes for PTSD treatment Trials on veterans suggest the potent hallucinogen could provide a new treatment for PTSD, but scientists still don''t know how it works." [ref=e1461] [cursor=pointer]':
+                  - /url: /future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd
+                  - generic [ref=e1462]:
+                    - generic [ref=e1465]:
+                      - img "image unavailable" [ref=e1466]
+                      - 'img "A close-up of US Army veteran''s arms folded across their chest (Credit: Getty Images)" [ref=e1467]'
+                    - generic [ref=e1468]:
+                      - heading "The banned hallucinogenic drug raising hopes for PTSD treatment" [level=2] [ref=e1471]
+                      - paragraph [ref=e1472]: Trials on veterans suggest the potent hallucinogen could provide a new treatment for PTSD, but scientists still don't know how it works.
+                - link "These breathing techniques could reduce your stress in minutes" [ref=e1475] [cursor=pointer]:
+                  - /url: /future/article/20260513-how-5-minutes-of-breathwork-can-lower-your-stress
+                  - heading "These breathing techniques could reduce your stress in minutes" [level=2] [ref=e1479]
+                - link "Three fun challenges to slow your brain's ageing" [ref=e1482] [cursor=pointer]:
+                  - /url: /future/article/20260508-three-impactful-ways-to-protect-your-brain-from-ageing
+                  - heading "Three fun challenges to slow your brain's ageing" [level=2] [ref=e1486]
+                - link "Parents weren't always this tired. What changed?" [ref=e1489] [cursor=pointer]:
+                  - /url: /future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep
+                  - heading "Parents weren't always this tired. What changed?" [level=2] [ref=e1493]
+          - generic [ref=e1494]:
+            - generic [ref=e1495]:
+              - generic [ref=e1496]:
+                - separator [ref=e1498]
+                - link "Culture" [ref=e1501] [cursor=pointer]:
+                  - /url: https://www.bbc.com/culture
+                  - heading "Culture" [level=2] [ref=e1502]:
+                    - text: Culture
+                    - img [ref=e1503]
+              - generic [ref=e1505]:
+                - link "image unavailable Dame Felicity Lott with short curly hair dressed in black and pink leans on the back of a chair and smiles to a camera while sitting in a theatre space. Soprano Dame Felicity Lott dies aged 79 The British operatic soprano recently told the BBC of her terminal cancer diagnosis." [ref=e1508] [cursor=pointer]:
+                  - /url: /news/articles/cpqp1938d8do
+                  - generic [ref=e1509]:
+                    - generic [ref=e1512]:
+                      - img "image unavailable" [ref=e1513]
+                      - img "Dame Felicity Lott with short curly hair dressed in black and pink leans on the back of a chair and smiles to a camera while sitting in a theatre space." [ref=e1514]
+                    - generic [ref=e1515]:
+                      - heading "Soprano Dame Felicity Lott dies aged 79" [level=2] [ref=e1518]
+                      - paragraph [ref=e1519]: The British operatic soprano recently told the BBC of her terminal cancer diagnosis.
+                - link "The British White Lotus? A group trip goes wrong in BBC drama Two Weeks in August" [ref=e1522] [cursor=pointer]:
+                  - /url: /news/articles/cy0252zn0vno
+                  - heading "The British White Lotus? A group trip goes wrong in BBC drama Two Weeks in August" [level=2] [ref=e1526]
+                - link "John Travolta's new film is a dud. It shows why good actors can be bad directors" [ref=e1529] [cursor=pointer]:
+                  - /url: /culture/article/20260516-john-travolta-propeller-one-way-night-coach-why-great-actors-can-be-bad-directors
+                  - heading "John Travolta's new film is a dud. It shows why good actors can be bad directors" [level=2] [ref=e1533]
+                - 'link "''This is beyond the Oscar'': John Travolta wins surprise Cannes honorary Palme d''Or" [ref=e1536] [cursor=pointer]':
+                  - /url: /news/articles/c332rprddlxo
+                  - 'heading "''This is beyond the Oscar'': John Travolta wins surprise Cannes honorary Palme d''Or" [level=2] [ref=e1540]'
+            - generic [ref=e1541]:
+              - generic [ref=e1542]:
+                - separator [ref=e1544]
+                - link "Travel" [ref=e1547] [cursor=pointer]:
+                  - /url: https://www.bbc.com/travel
+                  - heading "Travel" [level=2] [ref=e1548]:
+                    - text: Travel
+                    - img [ref=e1549]
+              - generic [ref=e1551]:
+                - 'link "image unavailable Two men hold a charcuterie board while standing next to a large paella pan (Credit: Courtesy of José Andrés and Family in Spain) José Andrés''s top tips for enjoying tapas The Michelin-starred chef helped bring tapas culture to the US, but there''s nothing like enjoying them in Spain. Here are his tips for enjoying the beloved shared plates." [ref=e1554] [cursor=pointer]':
+                  - /url: /travel/article/20260514-chef-jose-andres-teaches-you-how-to-enjoy-tapas-like-a-spaniard
+                  - generic [ref=e1555]:
+                    - generic [ref=e1558]:
+                      - img "image unavailable" [ref=e1559]
+                      - 'img "Two men hold a charcuterie board while standing next to a large paella pan (Credit: Courtesy of José Andrés and Family in Spain)" [ref=e1560]'
+                    - generic [ref=e1561]:
+                      - heading "José Andrés's top tips for enjoying tapas" [level=2] [ref=e1564]
+                      - paragraph [ref=e1565]: The Michelin-starred chef helped bring tapas culture to the US, but there's nothing like enjoying them in Spain. Here are his tips for enjoying the beloved shared plates.
+                - link "Chasing the rare 'lunar rainbow' at Victoria Falls" [ref=e1568] [cursor=pointer]:
+                  - /url: /travel/article/20260511-chasing-the-rare-lunar-rainbow-at-victoria-falls-zambia
+                  - heading "Chasing the rare 'lunar rainbow' at Victoria Falls" [level=2] [ref=e1572]
+                - link "What does summer travel look like in 2026?" [ref=e1575] [cursor=pointer]:
+                  - /url: /reel/video/p0nk07ty/watch
+                  - generic [ref=e1578]:
+                    - img [ref=e1580]
+                    - heading "What does summer travel look like in 2026?" [level=2] [ref=e1582]
+                - link "The prized Chinese green tea that can cost $8,800 per kilogram" [ref=e1585] [cursor=pointer]:
+                  - /url: /travel/article/20260508-on-the-hunt-for-chinas-most-famous-green-tea
+                  - heading "The prized Chinese green tea that can cost $8,800 per kilogram" [level=2] [ref=e1589]
+        - generic [ref=e1591]:
+          - generic [ref=e1595]:
+            - separator [ref=e1597]
+            - link "Watch" [ref=e1600] [cursor=pointer]:
+              - /url: https://www.bbc.com/video
+              - heading "Watch" [level=2] [ref=e1601]:
+                - text: Watch
+                - img [ref=e1602]
+          - generic [ref=e1608]:
+            - generic [ref=e1610]:
+              - link "image unavailable Inside the tech powering the future of driving" [ref=e1612] [cursor=pointer]:
+                - /url: /reel/video/p0nhs2vy/watch
+                - generic [ref=e1613]:
+                  - img "image unavailable" [ref=e1614]
+                  - img "Inside the tech powering the future of driving" [ref=e1615]
+              - img [ref=e1618]
+            - link "The boldest new cars unveiled at Beijing Auto Show 2026 At the world's biggest auto show, China reveals what the future of driving would look like. Learn more" [ref=e1623] [cursor=pointer]:
+              - /url: /reel/video/p0nhs2vy/watch
+              - generic [ref=e1624]:
+                - heading "The boldest new cars unveiled at Beijing Auto Show 2026" [level=2] [ref=e1628]
+                - generic [ref=e1629]: At the world's biggest auto show, China reveals what the future of driving would look like.
+                - generic "Learn more" [ref=e1631]: See more
+        - generic [ref=e1634]:
+          - generic [ref=e1635]:
+            - generic [ref=e1636]:
+              - generic [ref=e1637]:
+                - separator [ref=e1639]
+                - link "Arts" [ref=e1642] [cursor=pointer]:
+                  - /url: https://www.bbc.com/arts
+                  - heading "Arts" [level=2] [ref=e1643]:
+                    - text: Arts
+                    - img [ref=e1644]
+              - generic [ref=e1646]:
+                - 'link "image unavailable A still showing a group of boys in the jungle looking dishevelled taken from Lord of the Flies (Credit: Netflix) Lord of The Flies'' study of hate and division has never been more relevant William Golding''s story of boys descending into violence is a 20th-Century classic. Now Adolescence writer Jack Thorne is behind a new TV version speaking to a rancorous world." [ref=e1649] [cursor=pointer]':
+                  - /url: /culture/article/20260507-1950s-novel-lord-of-the-flies-is-the-ultimate-study-of-hate-and-division-it-has-never-been-more-relevant
+                  - generic [ref=e1650]:
+                    - generic [ref=e1653]:
+                      - img "image unavailable" [ref=e1654]
+                      - 'img "A still showing a group of boys in the jungle looking dishevelled taken from Lord of the Flies (Credit: Netflix)" [ref=e1655]'
+                    - generic [ref=e1656]:
+                      - heading "Lord of The Flies' study of hate and division has never been more relevant" [level=2] [ref=e1659]
+                      - paragraph [ref=e1660]: William Golding's story of boys descending into violence is a 20th-Century classic. Now Adolescence writer Jack Thorne is behind a new TV version speaking to a rancorous world.
+                - 'link "''Hideous'': The controversy over Picasso''s most shocking painting" [ref=e1663] [cursor=pointer]':
+                  - /url: /culture/article/20260506-the-controversy-over-picassos-most-shocking-painting
+                  - 'heading "''Hideous'': The controversy over Picasso''s most shocking painting" [level=2] [ref=e1667]'
+                - link "The artworks that inspired eight Met Gala looks" [ref=e1670] [cursor=pointer]:
+                  - /url: /culture/article/20260505-eight-of-the-most-stunning-met-gala-looks-and-the-artworks-that-inspired-them
+                  - heading "The artworks that inspired eight Met Gala looks" [level=2] [ref=e1674]
+                - 'link "The Other Bennet Sister: Why Mary Bennet is the Austen heroine for today" [ref=e1677] [cursor=pointer]':
+                  - /url: /culture/article/20260501-why-mary-bennet-is-austens-most-relatable-heroine
+                  - 'heading "The Other Bennet Sister: Why Mary Bennet is the Austen heroine for today" [level=2] [ref=e1681]'
+            - generic [ref=e1682]:
+              - generic [ref=e1683]:
+                - separator [ref=e1685]
+                - link "Earth" [ref=e1688] [cursor=pointer]:
+                  - /url: https://www.bbc.com/future-planet
+                  - heading "Earth" [level=2] [ref=e1689]:
+                    - text: Earth
+                    - img [ref=e1690]
+              - generic [ref=e1692]:
+                - 'link "image unavailable Black-and-white image of a diver inspecting corals in a bay in Jamaica (Credit: Kenneth Johnson/ Natural History Museum) These 1960s photos reveal Jamaica''s lost paradise A trove of snapshots from a 1960s diving expedition reveals stunning glimpses of Jamaica''s vibrant ecosystems of the past. This is transforming our vision of what coral reefs can be." [ref=e1695] [cursor=pointer]':
+                  - /url: /future/article/20260506-the-1960s-photos-capturing-jamaicas-lost-paradise
+                  - generic [ref=e1696]:
+                    - generic [ref=e1699]:
+                      - img "image unavailable" [ref=e1700]
+                      - 'img "Black-and-white image of a diver inspecting corals in a bay in Jamaica (Credit: Kenneth Johnson/ Natural History Museum)" [ref=e1701]'
+                    - generic [ref=e1702]:
+                      - heading "These 1960s photos reveal Jamaica's lost paradise" [level=2] [ref=e1705]
+                      - paragraph [ref=e1706]: A trove of snapshots from a 1960s diving expedition reveals stunning glimpses of Jamaica's vibrant ecosystems of the past. This is transforming our vision of what coral reefs can be.
+                - link "The eccentric photographer who inspired Attenborough" [ref=e1709] [cursor=pointer]:
+                  - /url: /future/article/20260507-cherry-kearton-the-eccentric-influence-on-a-young-sir-david-attenborough
+                  - heading "The eccentric photographer who inspired Attenborough" [level=2] [ref=e1713]
+                - link "The thrilling fossil discoveries that sparked Attenborough's love for nature" [ref=e1716] [cursor=pointer]:
+                  - /url: /future/article/20260501-the-thrilling-fossil-discoveries-that-sparked-attenboroughs-love-for-natural-history
+                  - heading "The thrilling fossil discoveries that sparked Attenborough's love for nature" [level=2] [ref=e1720]
+                - 'link "Chernobyl’s wildlife: Surviving in a poisoned land" [ref=e1723] [cursor=pointer]':
+                  - /url: /future/article/20260424-chernobyl-wildlife-forty-years-on
+                  - 'heading "Chernobyl’s wildlife: Surviving in a poisoned land" [level=2] [ref=e1727]'
+          - generic [ref=e1728]:
+            - generic [ref=e1729]:
+              - generic [ref=e1730]:
+                - separator [ref=e1732]
+                - link "Video" [ref=e1735] [cursor=pointer]:
+                  - /url: https://www.bbc.com/video
+                  - heading "Video" [level=2] [ref=e1736]:
+                    - text: Video
+                    - img [ref=e1737]
+              - generic [ref=e1739]:
+                - link "image unavailable Why Cannes feels different this year Why Hollywood is missing from Cannes this year Reporting for BBC Talking Movies, Tom Brook gives an insider look at this year's Cannes Film Festival." [ref=e1742] [cursor=pointer]:
+                  - /url: /reel/video/p0nkrt36/watch
+                  - generic [ref=e1743]:
+                    - generic [ref=e1745]:
+                      - generic [ref=e1746]:
+                        - img "image unavailable" [ref=e1747]
+                        - img "Why Cannes feels different this year" [ref=e1748]
+                      - img [ref=e1751]
+                    - generic [ref=e1753]:
+                      - heading "Why Hollywood is missing from Cannes this year" [level=2] [ref=e1756]
+                      - paragraph [ref=e1757]: Reporting for BBC Talking Movies, Tom Brook gives an insider look at this year's Cannes Film Festival.
+                - link "Tracking lions in Zambia's largest national park" [ref=e1760] [cursor=pointer]:
+                  - /url: /reel/video/p0n7b4p8/watch
+                  - generic [ref=e1763]:
+                    - img [ref=e1765]
+                    - heading "Tracking lions in Zambia's largest national park" [level=2] [ref=e1767]
+                - link "Instagram turns off privacy tech. What happens to your DMs?" [ref=e1770] [cursor=pointer]:
+                  - /url: /reel/video/p0njwxfj/watch
+                  - generic [ref=e1773]:
+                    - img [ref=e1775]
+                    - heading "Instagram turns off privacy tech. What happens to your DMs?" [level=2] [ref=e1777]
+                - link "Olivia Dean wasn't ready for Elton John's phone call" [ref=e1780] [cursor=pointer]:
+                  - /url: /reel/video/p0mvh51x/watch
+                  - generic [ref=e1783]:
+                    - img [ref=e1785]
+                    - heading "Olivia Dean wasn't ready for Elton John's phone call" [level=2] [ref=e1787]
+            - generic [ref=e1788]:
+              - generic [ref=e1789]:
+                - separator [ref=e1791]
+                - link "World's Table" [ref=e1794] [cursor=pointer]:
+                  - /url: https://www.bbc.com/travel/worlds-table
+                  - heading "World's Table" [level=2] [ref=e1795]:
+                    - text: World's Table
+                    - img [ref=e1796]
+              - generic [ref=e1798]:
+                - 'link "image unavailable A thick T-bone steak sits against a black background, scattered with red peppercorns, rock salt and herb (Credit: Alamy)s Which country can claim steak? From Japan to Argentina to the US, nations around the world have put their own stamp on the mouthwatering meat – making beef a destination in itself." [ref=e1801] [cursor=pointer]':
+                  - /url: /travel/article/20260402-which-country-can-claim-steak
+                  - generic [ref=e1802]:
+                    - generic [ref=e1805]:
+                      - img "image unavailable" [ref=e1806]
+                      - 'img "A thick T-bone steak sits against a black background, scattered with red peppercorns, rock salt and herb (Credit: Alamy)s" [ref=e1807]'
+                    - generic [ref=e1808]:
+                      - heading "Which country can claim steak?" [level=2] [ref=e1811]
+                      - paragraph [ref=e1812]: From Japan to Argentina to the US, nations around the world have put their own stamp on the mouthwatering meat – making beef a destination in itself.
+                - link "Inside the Turkish city built on 'green gold'" [ref=e1815] [cursor=pointer]:
+                  - /url: /travel/article/20260316-the-turkish-city-built-on-green-gold
+                  - heading "Inside the Turkish city built on 'green gold'" [level=2] [ref=e1819]
+                - link "The rare 'dinosaur egg' returning from extinction" [ref=e1822] [cursor=pointer]:
+                  - /url: /travel/article/20260312-the-tasty-dinosaur-egg-returning-from-extinction
+                  - heading "The rare 'dinosaur egg' returning from extinction" [level=2] [ref=e1826]
+                - link "Why farm-to-table isn't just a 'trend' in Atlanta" [ref=e1829] [cursor=pointer]:
+                  - /url: /reel/video/p0n63c5m/watch
+                  - generic [ref=e1832]:
+                    - img [ref=e1834]
+                    - heading "Why farm-to-table isn't just a 'trend' in Atlanta" [level=2] [ref=e1836]
+        - generic [ref=e1838]:
+          - generic [ref=e1839]:
+            - separator [ref=e1841]
+            - generic [ref=e1842]:
+              - heading "Discover More from the BBC" [level=2] [ref=e1844]
+              - generic [ref=e1846]:
+                - button "Previous Page" [disabled] [ref=e1847]:
+                  - img [ref=e1848]
+                - button "Next Page" [ref=e1850] [cursor=pointer]:
+                  - img [ref=e1851]
+          - generic [ref=e1854]:
+            - link "image unavailable Football Extra Football Extra All the latest news, insights and gossip from the Premier League – in your inbox every weekday." [ref=e1858] [cursor=pointer]:
+              - /url: https://www.bbc.com/newsletters?footballextra&at_bbc_team=studios&at_medium=display&at_objective=acquisition&at_ptr_type=&at_ptr_name=bbc.comhp&at_format=Module&at_link_origin=homepage&at_campaign=footballextra&at_campaign_type=owned
+              - generic [ref=e1859]:
+                - generic [ref=e1862]:
+                  - img "image unavailable" [ref=e1863]
+                  - img "Football Extra" [ref=e1864]
+                - generic [ref=e1865]:
+                  - heading "Football Extra" [level=2] [ref=e1868]
+                  - paragraph [ref=e1869]: All the latest news, insights and gossip from the Premier League – in your inbox every weekday.
+            - link "image unavailable Download the BBC app Download the BBC app Click here to download the BBC app for Apple and Android devices." [ref=e1874] [cursor=pointer]:
+              - /url: https://www.bbc.com/pages/download-the-bbc-app
+              - generic [ref=e1875]:
+                - generic [ref=e1878]:
+                  - img "image unavailable" [ref=e1879]
+                  - img "Download the BBC app" [ref=e1880]
+                - generic [ref=e1881]:
+                  - heading "Download the BBC app" [level=2] [ref=e1884]
+                  - paragraph [ref=e1885]: Click here to download the BBC app for Apple and Android devices.
+            - link "image unavailable Stream the Best of British TV Stream the Best of British TV Endlessly entertaining. Delightfully different. Enjoy worlds of wit, mystery and drama with BritBox." [ref=e1890] [cursor=pointer]:
+              - /url: https://www.britbox.com/?utm_source=bbc.com&utm_medium=referral&utm_campaign=bottom-anchored-rail
+              - generic [ref=e1891]:
+                - generic [ref=e1894]:
+                  - img "image unavailable" [ref=e1895]
+                  - img "Stream the Best of British TV" [ref=e1896]
+                - generic [ref=e1897]:
+                  - heading "Stream the Best of British TV" [level=2] [ref=e1900]
+                  - paragraph [ref=e1901]: Endlessly entertaining. Delightfully different. Enjoy worlds of wit, mystery and drama with BritBox.
+            - link "image unavailable Register for a BBC account Register for a BBC account Don't have time to read everything right now? Your BBC account lets you save articles and videos for later." [ref=e1906] [cursor=pointer]:
+              - /url: https://session.bbc.com/session?userOrigin=BBCS_BBC&ptrt=https%3A%2F%2Fwww.bbc.com%2F
+              - generic [ref=e1907]:
+                - generic [ref=e1910]:
+                  - img "image unavailable" [ref=e1911]
+                  - img "Register for a BBC account" [ref=e1912]
+                - generic [ref=e1913]:
+                  - heading "Register for a BBC account" [level=2] [ref=e1916]
+                  - paragraph [ref=e1917]: Don't have time to read everything right now? Your BBC account lets you save articles and videos for later.
+            - link "image unavailable Sign up for The Essential List Sign up for The Essential List The week's best stories, handpicked by BBC editors, in your inbox every Tuesday and Friday." [ref=e1922] [cursor=pointer]:
+              - /url: https://www.bbc.com/newsletters?theessentiallist&at_bbc_team=studios&at_medium=display&at_objective=acquisition&at_ptr_type=&at_ptr_name=bbc.comhp&at_format=Module&at_link_origin=homepage&at_campaign=essentiallist&at_campaign_type=owned
+              - generic [ref=e1923]:
+                - generic [ref=e1926]:
+                  - img "image unavailable" [ref=e1927]
+                  - img "Sign up for The Essential List" [ref=e1928]
+                - generic [ref=e1929]:
+                  - heading "Sign up for The Essential List" [level=2] [ref=e1932]
+                  - paragraph [ref=e1933]: The week's best stories, handpicked by BBC editors, in your inbox every Tuesday and Friday.
+    - separator [ref=e1936]
+    - contentinfo [ref=e1937]:
+      - link "British Broadcasting Corporation" [ref=e1940] [cursor=pointer]:
+        - /url: /
+        - img "British Broadcasting Corporation" [ref=e1941]
+      - navigation "Footer navigation" [ref=e1944]:
+        - list [ref=e1945]:
+          - listitem [ref=e1946]:
+            - link "Home" [ref=e1948] [cursor=pointer]:
+              - /url: https://www.bbc.com/
+          - listitem [ref=e1949]:
+            - link "News" [ref=e1951] [cursor=pointer]:
+              - /url: /news
+          - listitem [ref=e1952]:
+            - link "Sport" [ref=e1954] [cursor=pointer]:
+              - /url: /sport
+          - listitem [ref=e1955]:
+            - link "Business" [ref=e1957] [cursor=pointer]:
+              - /url: /business
+          - listitem [ref=e1958]:
+            - link "Technology" [ref=e1960] [cursor=pointer]:
+              - /url: /technology
+          - listitem [ref=e1961]:
+            - link "Health" [ref=e1963] [cursor=pointer]:
+              - /url: /health
+          - listitem [ref=e1964]:
+            - link "Culture" [ref=e1966] [cursor=pointer]:
+              - /url: /culture
+          - listitem [ref=e1967]:
+            - link "Arts" [ref=e1969] [cursor=pointer]:
+              - /url: /arts
+          - listitem [ref=e1970]:
+            - link "Travel" [ref=e1972] [cursor=pointer]:
+              - /url: /travel
+          - listitem [ref=e1973]:
+            - link "Earth" [ref=e1975] [cursor=pointer]:
+              - /url: /future-planet
+          - listitem [ref=e1976]:
+            - link "Audio" [ref=e1978] [cursor=pointer]:
+              - /url: /audio
+          - listitem [ref=e1979]:
+            - link "Video" [ref=e1981] [cursor=pointer]:
+              - /url: /video
+          - listitem [ref=e1982]:
+            - link "Live" [ref=e1984] [cursor=pointer]:
+              - /url: /live
+          - listitem [ref=e1985]:
+            - link "Weather" [ref=e1987] [cursor=pointer]:
+              - /url: https://www.bbc.com/weather
+          - listitem [ref=e1988]:
+            - link "BBC Shop" [ref=e1990] [cursor=pointer]:
+              - /url: https://shop.bbc.com/
+          - listitem [ref=e1991]:
+            - link "BritBox" [ref=e1993] [cursor=pointer]:
+              - /url: https://www.britbox.com/?utm_source=bbc.com&utm_medium=referral&utm_campaign=footer
+      - button "BBC in other languages" [ref=e1996] [cursor=pointer]:
+        - text: BBC in other languages
+        - img [ref=e1998]
+      - generic [ref=e2000]:
+        - generic [ref=e2001]: "Follow BBC on:"
+        - generic [ref=e2002]:
+          - button "Follow BBC on x" [ref=e2003]:
+            - img [ref=e2004]
+          - button "Follow BBC on facebook" [ref=e2006]:
+            - img [ref=e2007]
+          - button "Follow BBC on instagram" [ref=e2009]:
+            - img [ref=e2010]
+          - button "Follow BBC on tiktok" [ref=e2012]:
+            - img [ref=e2013]
+          - button "Follow BBC on linkedin" [ref=e2015]:
+            - img [ref=e2016]
+          - button "Follow BBC on youtube" [ref=e2018]:
+            - img [ref=e2019]
+      - navigation [ref=e2022]:
+        - list [ref=e2023]:
+          - listitem [ref=e2024]:
+            - link "Terms of Use" [ref=e2026] [cursor=pointer]:
+              - /url: https://www.bbc.com/pages/terms-of-use
+          - listitem [ref=e2027]:
+            - link "Subscription Terms" [ref=e2029] [cursor=pointer]:
+              - /url: https://www.bbc.com/pages/subscription-terms
+          - listitem [ref=e2030]:
+            - link "About the BBC" [ref=e2032] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/aboutthebbc
+          - listitem [ref=e2033]:
+            - link "Privacy Policy" [ref=e2035] [cursor=pointer]:
+              - /url: https://www.bbc.com/pages/privacy-policy
+          - listitem [ref=e2036]:
+            - link "Cookies" [ref=e2038] [cursor=pointer]:
+              - /url: https://www.bbc.com/usingthebbc/cookies/
+          - listitem [ref=e2039]:
+            - link "Accessibility Help" [ref=e2041] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/accessibility/
+          - listitem [ref=e2042]:
+            - link "Contact the BBC" [ref=e2044] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/contact
+          - listitem [ref=e2045]:
+            - link "Advertise with us" [ref=e2047] [cursor=pointer]:
+              - /url: https://advertising.bbcstudios.com/
+          - listitem [ref=e2048]:
+            - link "Do not share or sell my info" [ref=e2050] [cursor=pointer]:
+              - /url: https://www.bbc.com/usingthebbc/cookies/how-can-i-change-my-bbc-cookie-settings/
+          - listitem [ref=e2051]:
+            - link "BBC.com Help & FAQs" [ref=e2053] [cursor=pointer]:
+              - /url: https://help.bbc.com/hc/
+          - listitem [ref=e2054]:
+            - link "Content Index" [ref=e2056] [cursor=pointer]:
+              - /url: https://www.bbc.com/pages/content-index
+          - listitem [ref=e2057]:
+            - link "Set Preferred Source" [ref=e2059] [cursor=pointer]:
+              - /url: https://www.bbc.com/future/article/20260128-how-to-make-google-put-trusted-sources-up-top-when-you-search
+      - generic [ref=e2060]:
+        - paragraph [ref=e2061]:
+          - text: Copyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites.
+          - link "Read about our approach to external linking." [ref=e2062] [cursor=pointer]:
+            - /url: https://www.bbc.com/editorialguidelines/guidance/links-and-feeds
+        - paragraph [ref=e2063]
+  - alert [ref=e2064]
